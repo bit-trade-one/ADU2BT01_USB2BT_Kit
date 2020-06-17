@@ -12,6 +12,14 @@ iPhone、スマートフォン・パソコンを操作可能とする変換ア�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/)!
 
+## [使い方](https://bit-trade-one.co.jp/project/module/USB2BT/_USB2BT-MANUAL.pdf)
+
+## [組み立てマニュアル](https://bit-trade-one.co.jp/project/module/USB2BT/_USB2BT-ASSEMBLY%20MANUAL.pdf)
+
+### [基板図](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit/blob/master/Dimensions/ADU2B01_dimensions.pdf)
+
+### [回路図](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit/blob/master/Schematics/usb2bt2_schematics.pdf)
+
 ## 製品仕様
 
 製品型番：:キット版　ADU2B01 /  組立済版　ADU2B01P  
