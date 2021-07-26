@@ -11,9 +11,12 @@ iPhone、スマートフォン・パソコンを操作可能とする変換ア�
 またキット版の他に組立済み版もご用意、組立済み版にはUSBハブが付属しています。  
 
 ---
+
 <span style="color: red; ">※本製品は本製品はUSB HID(ヒューマンインターフェイスデバイス) をBluetoothに変換する製品です。
 USBキーボード、マウス、ゲームパッド等のみご利用いただけます。</span>  
+
 ---
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/)!
 
 ## [使い方](https://bit-trade-one.co.jp/project/module/USB2BT/_USB2BT-MANUAL.pdf)
