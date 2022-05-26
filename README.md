@@ -23,6 +23,8 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 
 ## [組み立てマニュアル](https://bit-trade-one.co.jp/project/module/USB2BT/_USB2BT-ASSEMBLY%20MANUAL.pdf)
 
+## [ファームウェア(作者様サイト)](http://sohta02.web.fc2.com/usb2bt4_release.html)
+
 ### [基板図](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit/blob/master/Dimensions/ADU2B01_dimensions.pdf)
 
 ### [回路図](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit/blob/master/Schematics/usb2bt2_schematics.pdf)
